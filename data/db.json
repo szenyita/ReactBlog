@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "id": "cec2",
+      "title": "Passion for Writing Blogs",
+      "body": "I love writing blogs so much",
+      "author": "Author1"
+    },
+    {
+      "id": "8706",
+      "title": "Amazing Blog Writers Join the Blog Website",
+      "body": "Addicted viewers are reading the website all day long",
+      "author": "Author2"
+    }
+  ]
+}
